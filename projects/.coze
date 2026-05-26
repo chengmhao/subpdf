@@ -1,0 +1,6 @@
+[skill]
+  skill_package = "subtitle-to-pdfbook.skill"
+  name = "subtitle-to-pdfbook"
+  description = "将双语字幕文件转换为A4规格PDF台词本，支持多对字幕合并、词汇高亮、动态分页、CSS自定义样式；当用户需要制作字幕台词本、双语字幕导出PDF、多集字幕合并打印时使用"
+  project_name = "字幕处理技能"
+  project_description = "双语字幕转PDF台词本"
